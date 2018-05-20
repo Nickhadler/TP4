@@ -1,6 +1,6 @@
 # TP4
 
-Afin de lancer l'application suivez lez étapes suivantes : 
+Afin de lancer l'application suivez les étapes suivantes : 
 
 1. Téléchargez le projet
 2. Placez-vous avec le terminal dans le dossier du projet
