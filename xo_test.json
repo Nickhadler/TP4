@@ -1,0 +1,15 @@
+{
+  "xo": {
+  "envs": [
+    "node"
+  ],
+  "space": 2,
+  "rules": {
+    "max-len": [
+      "error",
+      80,
+      2
+    ]
+  }
+}
+}
